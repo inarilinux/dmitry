@@ -1,0 +1,4 @@
+manpage.patch
+missing-prototypes.patch
+arm64-fix.patch
+file-open-return-type.patch
