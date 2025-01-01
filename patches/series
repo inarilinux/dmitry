@@ -1,7 +1,0 @@
-manpage.patch
-missing-prototypes.patch
-arm64-fix.patch
-CVE-2020-14931.patch
-fix-format-string.patch
-CVE-2017-7938-CVE-2024-31837.patch
-file-open-return-type.patch
